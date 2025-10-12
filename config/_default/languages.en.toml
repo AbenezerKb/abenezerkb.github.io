@@ -2,7 +2,8 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Home"
+title = "Abenezer Angamo"
+
 
 [params]
   displayName = "EN"
@@ -24,7 +25,7 @@ title = "Home"
    bio = "Christian | Engineering"
    links = [
      { email = "mailto:aben.jacob3@gmail.com" },
-     { link = "https://abenezerkb.github.io/" },
+    #  { link = "https://abenezerkb.github.io/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
