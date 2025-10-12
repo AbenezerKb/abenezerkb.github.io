@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.121.1'  # use your required version
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
