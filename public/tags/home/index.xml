@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/tags/home/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>aben.jacob3@gmail.com (Abenezer Angamo)</managingEditor>
+    <webMaster>aben.jacob3@gmail.com (Abenezer Angamo)</webMaster>
+    <copyright>© 2025 Abenezer Angamo</copyright>
+    <lastBuildDate>Sun, 15 Oct 2023 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abenezer Angamo!</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sun, 15 Oct 2023 12:00:00 +0000</pubDate>
+      <author>aben.jacob3@gmail.com (Abenezer Angamo)</author>
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

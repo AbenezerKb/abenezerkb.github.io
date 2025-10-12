@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abenezer Angamo! on Home</title>
+    <link>http://localhost:1313/AbenezerKb/personal-website.github.io/</link>
+    <description>Recent content in Abenezer Angamo! on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>aben.jacob3@gmail.com (Abenezer Angamo)</managingEditor>
+    <webMaster>aben.jacob3@gmail.com (Abenezer Angamo)</webMaster>
+    <copyright>© 2025 Abenezer Angamo</copyright>
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AbenezerKb/personal-website.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abenezer Angamo, Marcello Maugeri (2025). BenGQL: An Extensible Benchmarking Framework for Automated GraphQL Testing. ASE 2025 (Tool Demonstration Track)</title>
+      <link>http://localhost:1313/AbenezerKb/personal-website.github.io/publications/bengql/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <author>aben.jacob3@gmail.com (Abenezer Angamo)</author>
+      <guid>http://localhost:1313/AbenezerKb/personal-website.github.io/publications/bengql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Abenezer Angamo, Marcello Maugeri (2025). KrakQL: LLM-Guided Blind Introspection of GraphQL Schemas</title>
+      <link>http://localhost:1313/AbenezerKb/personal-website.github.io/publications/krakql/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <author>aben.jacob3@gmail.com (Abenezer Angamo)</author>
+      <guid>http://localhost:1313/AbenezerKb/personal-website.github.io/publications/krakql/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
