@@ -138,6 +138,12 @@ body footer,
 }
 
 /* ---------- prose ---------- */
+/* the profile hero is centered; its body copy and lists are not */
+.text-center .prose,
+#main-content > article.text-center .prose {
+  text-align: left;
+}
+
 .prose {
   max-width: 100% !important;
   width: 100% !important;
