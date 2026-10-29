@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Abenezer Angamo"
+title = "Abenezer Kebede Angamo"
 
 
 [params]
@@ -17,7 +17,7 @@ title = "Abenezer Angamo"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Abenezer Angamo"
+   name = "Abenezer Kebede Angamo"
    email = "aben.jacob3@gmail.com"
   #  image = "img/integrations.png"
    imageQuality = 96
