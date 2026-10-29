@@ -18,13 +18,13 @@ title = "Abenezer Kebede Angamo"
 
  [params.author]
    name = "Abenezer Kebede Angamo"
-   email = "aangamo.aimsammi.org"
+   email = "aangamo@aimsammi.org"
   #  image = "img/integrations.png"
    imageQuality = 96
   #  headline = "Christian"
    bio = "Christian | Engineering"
    links = [
-     { email = "mailto:aangamo.aimsammi.org" },
+     { email = "mailto:aangamo@aimsammi.org" },
     #  { link = "https://abenezerkb.github.io/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
