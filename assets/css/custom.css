@@ -101,29 +101,6 @@ body footer,
   letter-spacing: -0.02em;
 }
 
-#main-content > article.text-center > header > h1::after {
-  content: "";
-  display: inline-block;
-  width: 0.5em;
-  height: 0.9em;
-  margin-left: 0.12em;
-  vertical-align: -0.08em;
-  background: var(--vio);
-  animation: blink 1.1s steps(1) infinite;
-}
-
-@keyframes blink {
-  50% {
-    opacity: 0;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  #main-content > article.text-center > header > h1::after {
-    animation: none;
-  }
-}
-
 #main-content > article.text-center > header .text-2xl {
   font-size: 1.15em !important;
 }
